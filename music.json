@@ -15,6 +15,18 @@
         "PageName": "booteater1939's discs"
     },
     {
+    "Songs": [
+        { "Pitch": 0.1, "Title": "Jakarta - One Desire", "SoundID": 126694017679129 },
+        { "Pitch": 1, "Title": "untitled 1", "SoundID": 128485230411148 },
+        { "Pitch": 1, "Title": "MDK - Press Start", "SoundID": 116671200461845 },
+        { "Pitch": 1, "Title": "Heaven Pierce Her - War Without Reason", "SoundID": 100536902103011 },
+        { "Pitch": 1, "Title": "Noisestorm - Crab Rave", "SoundID": 5410086218 },
+        { "Pitch": 1, "Title": "Dion Timmer - Shiawase", "SoundID": 5409360995 },
+        { "Pitch": 1, "Title": "Stonebank - What Are You Waiting For", "SoundID": 7028977687 }
+    ],
+    "PageName": "Plane_CrazyPro's music"
+    },
+    {
         "Songs": [
             { "Pitch": 1, "Title": "Ben & Ben (Woah, Bird!)", "SoundID": 123761411367410 },
             { "Pitch": 1, "Title": "Nicotine", "SoundID": 86816124101913 },
