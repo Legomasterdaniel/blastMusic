@@ -149,6 +149,7 @@
     },
     {
         "Songs": [
+            { "Pitch": 1, "Title": "Bass Monster", "SoundID": 1846946119 },
             { "Pitch": 1, "Title": "67", "SoundID": 127798544476124.99 },
             { "Pitch": 1, "Title": "Billie Jean <i>(Remix)</i>", "SoundID": 116197983114890 },
             { "Pitch": 1, "Title": "Ibiza Strings", "SoundID": 1842830565 },
